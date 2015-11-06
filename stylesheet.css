@@ -1,0 +1,78 @@
+body{
+    
+    background:black;
+}
+
+img{
+    height:735px;
+    width:1440px;
+    margin:0;
+}
+
+#SummParagraph{
+    color:white;
+    width:500px;
+    margin:auto;
+    background:black;
+    height:200px;
+    padding:80px;
+    font-family: arial;
+}
+
+#play ul{
+    color:black;
+    width:100%;
+    height:100%;
+    margin:auto;
+    background:white;
+    font-family: 'Lucida Sans Typewriter', 'Lucida Console', 'monaco', 'Bitstream Vera Sans Mono', monospace;
+    list-style-type:none;
+    text-align:center;
+    padding-top:40px;
+    padding-bottom:40px;
+}
+
+
+#trailer{
+    margin:auto;
+    width:420px; 
+    height:315px;
+}
+
+h2{
+    color:white;
+    font-family:arial;
+}
+
+form {
+    display: inline-block;
+    margin:auto;
+    
+}
+
+#submission{
+    height:100%;
+    width:100%;
+    margin:auto;
+    text-align:center;
+}
+
+#button{
+    display: inline-block;
+    height:20px;
+	width:70px;
+	background-color:white;
+	font-family:arial;
+	font-weight:bold;
+	color:black;
+	border-radius: 5px;
+	text-align:center;
+	margin-top:2px;
+}
+
+.list {
+	font-family:arial;
+	font-size:27;
+	color:white;
+	
+}
